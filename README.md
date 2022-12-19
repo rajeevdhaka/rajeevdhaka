@@ -1,3 +1,11 @@
+### Profile
+
+<br/><br/>
+### Themes
+   
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rajeevdhaka&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) 
+
+
 <br/><br/>
 
 ### Skills
@@ -18,12 +26,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 <br/><br/>
-### Profile
-
-<br/><br/>
-### Themes
-   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rajeevdhaka&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) 
 
 <br/><br/>
 ## TO-DO
