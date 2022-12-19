@@ -15,20 +15,13 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,heroku,apache,nginx,jupyter,prettier&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 #### Software & IDE's
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,macos,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 <br/><br/>
 ### Profile
+         
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Rajeev&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-Show off your profile with some interesting statistics. Perfect for profile READMEs.
-
-
-`&data=followers,repositories,stars,commits`           
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-```md
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-```
 <br/><br/>
 ### Themes
 
