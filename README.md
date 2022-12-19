@@ -11,9 +11,9 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Rajeev Dhaka"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["Hin_IN", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -25,12 +25,12 @@ me.say_hi()
 
 <!-- ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+<a href="[https://github.com/Zhenye-Na/Zhenye-Na](https://github.com/rajeevdhaka/ExpenseTracker)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevdhaka&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rajeev's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+<a href="[https://github.com/Zhenye-Na/Zhenye-Na](https://github.com/rajeevdhaka/Notes)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeevdhaka&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rajeev's GitHub Stats" />
 </a> -->
 
 ## 🗂️ Highlight Projects
