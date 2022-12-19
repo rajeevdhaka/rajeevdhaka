@@ -8,25 +8,11 @@
 #### Frameworks
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,django,bootstrap,tailwind,express,angular&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-```md
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/Jurredr/github-widgetbox)
-```
-
 #### Libraries
-
-Default             |  &includeNames=true
-:-------------------------:|:-------------------------:
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,p5,tensorflow,jquery)](https://github.com/Jurredr/github-widgetbox)  |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,p5,tensorflow,jquery&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-
-```md
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=babel,p5,tensorflow,jquery)](https://github.com/Jurredr/github-widgetbox)
-```
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=p5,tensorflow,jquery&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 #### Tools
-
-Default             |  &includeNames=true
-:-------------------------:|:-------------------------:
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)  |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,heroku,apache,nginx,jupyter,prettier&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 ```md
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)
