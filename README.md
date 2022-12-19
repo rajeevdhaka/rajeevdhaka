@@ -19,22 +19,16 @@
 
 <br/><br/>
 ### Profile
-         
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rajeevdhaka&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <br/><br/>
 ### Themes
    
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rajeevdhaka&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) |  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=default)](https://github.com/Jurredr/github-widgetbox)<br/>
-
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rajeevdhaka&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) 
 
 <br/><br/>
 ## TO-DO
 
-* [x] Fix skills text being off-center
-* [x] Add themes (dark mode)
-* [x] Add Skills: Tools & Frameworks widget
-* [x] Add Skills: Software & IDEs widget
+* [ ] Make CI/CD pipelines for next project. 
+
 * [ ] Make autobuilder instead of manual build and push
 
