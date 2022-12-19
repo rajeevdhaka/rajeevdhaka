@@ -2,7 +2,7 @@
 
 ### Skills
 #### Languages
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp,bash,xml,json,yaml,postgresql,mysql,sass,graphql)](https://github.com/Jurredr/github-widgetbox)  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp,bash,xml,json,yaml,postgresql,mysql,sass,graphql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)  
 
 
 #### Frameworks
