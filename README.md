@@ -8,21 +8,17 @@
 
 ### Skills
 #### Languages
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp,bash,xml,json,yaml,postgresql,mysql,sass,graphql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)  
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp,bash,xml,json,yaml,postgresql,mysql,sass,graphql&includeNames=true)](https://github.com/rajeevdhaka)
 
 #### Frameworks
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,django,bootstrap,tailwind,express,angular&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,django,bootstrap,tailwind,express,angular&includeNames=true)](https://github.com/rajeevdhaka)
 #### Libraries
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=p5,tensorflow,jquery&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=p5,tensorflow,jquery&includeNames=true)](https://github.com/rajeevdhaka)
 #### Tools
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,heroku,apache,nginx,jupyter,prettier&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,heroku,apache,nginx,jupyter,prettier&includeNames=true)](https://github.com/rajeevdhaka)
 
 #### Software & IDE's
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode&includeNames=true)](https://github.com/rajeevdhaka)
 <br/><br/>
 
 <br/><br/>
